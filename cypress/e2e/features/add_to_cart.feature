@@ -6,3 +6,5 @@ Feature: Automation test
     And Add it to cart
     And Checkout the item
     Then It Navigates to cart page
+
+
